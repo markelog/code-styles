@@ -1,6 +1,6 @@
-### List of code styles (sorted by popularity)
+## List of code styles (sorted by popularity)
 
-## Javascript
+### JavaScript
 
 * [Airbnb](https://github.com/airbnb/javascript#readme)
 * [Standrd](https://github.com/feross/standard#readme)
