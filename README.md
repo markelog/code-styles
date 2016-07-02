@@ -9,3 +9,5 @@
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 * [Idiomatic](https://github.com/rwaldron/idiomatic.js#readme)
 * [jQuery](https://contribute.jquery.org/style-guide/)
+
+<!-- http://npmcharts.com/compare/standard,xo,eslint-config-google,eslint-config-airbnb,eslint-config-jquery,eslint-config-idiomatic,jslint -->
